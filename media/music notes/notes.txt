@@ -1,0 +1,8 @@
+r_1 : organ, do re mi, do re mi double octave
+r_2 : organ, long do
+r_3 : organ, do do do, re re re, do re mi
+r_4 : organ, do re mi * 2 octaves, do re mi 2 double octave
+r_6 : organ, do to do, middle to right
+r_7 : organ, doe + mi, r+fa, ...,
+r_7 : whole not, half, quarter
+
